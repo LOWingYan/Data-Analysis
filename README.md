@@ -27,5 +27,7 @@ Group Project
   Doing emoji prediction based on the tweets
   
   Tools: python (pandas, matplotlib, seaborn, nltk, sklearn, keras library)
+
   Skills: EDA, data augmentation, text preprocessing, ML modelling
+
   Possible improvement: Sentiment Analysis using Vader in Python
