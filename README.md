@@ -3,9 +3,9 @@
 Self Project
 - Classification
   
- ** Description:
+  Description:
   
-  Label Classification base on numerical and categorical data fields**
+  Label Classification base on numerical and categorical data fields
   
   Tools: python (pandas, matplotlib, seaborn, sklearn library)
   
@@ -13,18 +13,18 @@ Self Project
 
 - Covid-19 Analysis
   
-**  Description:
+  Description:
   
-  Writing SQL Query to extract information related to Covid-19 trend**
+  Writing SQL Query to extract information related to Covid-19 trend
   
   Tools/ Skills: SQL (SQLite)
 
 Group Project
 - Text Classification
   
-**  Description:
+  Description:
   
-  Doing emoji prediction based on the tweets**
+  Doing emoji prediction based on the tweets
   
   Tools: python (pandas, matplotlib, seaborn, nltk, sklearn, keras library)
   Skills: EDA, data augmentation, text preprocessing, ML modelling
